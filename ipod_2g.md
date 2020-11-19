@@ -1,4 +1,3 @@
-
 ---
 author: p13giag
 layout: timeline
