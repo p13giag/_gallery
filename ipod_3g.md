@@ -1,4 +1,3 @@
-
 ---
 layout: timeline
 author: p13giag
@@ -16,4 +15,3 @@ tags:
   - iPod
   - iPhone
 ---
-
